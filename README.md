@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Sanomohamed
-- 👀 I’m interested in software 
-- 🌱 I’m currently learning BIT
+- 👋 Hi, I’m Sanomohamed
+- 👀 I’m software engineering student 
+- 🌱 I’m currently following my second year of study 
 - 💞️ I’m looking to collaborate on web project, Mobile App, System developement Java
-- 📫 How to reach me mamadydjan17@Gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 you can reach me mamadydjan17@gmail.com
+- ⚡I'm fan of coding, love trying new challenges
 
 <!---
 Sanomohamed/Sanomohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
