@@ -2,7 +2,7 @@
 - 👀 I’m software engineering student 
 - 🌱 I’m currently following my second year of study 
 - 💞️ I’m looking to collaborate on web project, Mobile App, System developement Java
-- 📫 you can reach me mamadydjan17@gmail.com
+- 📫 you can reach me at mamadydjan17@gmail.com
 - ⚡I'm fan of coding, love trying new challenges
 
 <!---
